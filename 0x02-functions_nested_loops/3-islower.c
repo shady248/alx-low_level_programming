@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isLower - checks for lowercase letters..
+ * _islower - checks for lowercase letters..
  *
  * @c: the character in ASCII mode..
  *
@@ -10,7 +10,7 @@
 
 int _islower(int c)
 {
-	if ((97 <= c) && (c <= 122))
+	if ((c >= 97) && (c <= 122))
 		return (1);
 	else
 		return (0);
