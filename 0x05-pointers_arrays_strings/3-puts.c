@@ -7,9 +7,9 @@
  */
 void _puts(char *str)
 {
-	int i;
+	int i = 0;
 
-	while(i >= 0 )
+	while(i >= 0)
 	{
 		if (str[i] == '\0')
 		{
@@ -18,6 +18,5 @@ void _puts(char *str)
 		}
 		_putchar(str[i]);
 		i++;
-
 	}
 }
