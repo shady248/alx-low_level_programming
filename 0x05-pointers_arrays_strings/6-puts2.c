@@ -16,7 +16,7 @@ void puts2(char *str)
 			break;
 		}
 		_putchar(str[counter]);
-		counter+2;
+		counter = counter+2;
 	}
 	_putchar('\n');
 }
