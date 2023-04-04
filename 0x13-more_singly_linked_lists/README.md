@@ -11,3 +11,4 @@ Files Table
 | 2-add\_nodeint.c |  adds a new node at the beginning of a listint\_t list. |
 | 3-add\_nodeint\_end.c | t adds a new node at the end of a listint\_t list. |
 | 4-free\_listint.c | frees a linked list |
+| 5-free\_listint2.c| frees a linked list and resets head to `NULL` |
