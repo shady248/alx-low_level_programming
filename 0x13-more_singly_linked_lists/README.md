@@ -14,3 +14,4 @@ Files Table
 | 5-free\_listint2.c| frees a linked list and resets head to `NULL` |
 | 6-pop\_listint.c |  deletes the head node of a `listint_t` linked list, and returns the head node’s data (n) |
 | 7-get\_nodeint.c |  returns the nth node of a `listint_t` linked list, if the node does not exist, return `NULL`|
+| 8-sum\_listint.c |  returns the sum of all the data (n) of a `listint_t` linked list |
