@@ -1,4 +1,4 @@
-##This is the folder for the singly linked list for the ALX SE Programme
+## This is the folder for the singly linked list for the ALX SE Programme
 
 ## Files
 All of the following files are programs written in C:
@@ -10,6 +10,6 @@ All of the following files are programs written in C:
 | `2-add_node.c` | Adds a new node at the beginning of a `list_t` list |
 | `3-add_node_end.c` | Adds a new node at the end of a `list_t` list |
 | `4-free_list.c` | Frees a `list_t` list |
-| `100-first.c` | Prints a message before main function is executed |
-| `101-hello_holberton.asm` | Assembly code that prints `Hello, Holberton` only using `printf` function |
+| `100-first.c` | Prints a message before main function is executed |i
+| `101-hello_holberton.asm` | Assembly code that prints `Hello, Holberton` only using `printf` function 
 Made with :heartbeat: By Shady Mamdouh.
