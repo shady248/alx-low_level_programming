@@ -12,3 +12,4 @@ Files Table
 | 3-add\_nodeint\_end.c | t adds a new node at the end of a listint\_t list. |
 | 4-free\_listint.c | frees a linked list |
 | 5-free\_listint2.c| frees a linked list and resets head to `NULL` |
+| 6-pop\_listint.c |  deletes the head node of a `listint_t` linked list, and returns the head node’s data (n) |
