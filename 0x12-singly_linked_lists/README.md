@@ -1,4 +1,5 @@
-this is the folder dor the singly linked list for the ALX SE Programme
+##This is the folder for the singly linked list for the ALX SE Programme
+
 ## Files
 All of the following files are programs written in C:
 
@@ -11,3 +12,4 @@ All of the following files are programs written in C:
 | `4-free_list.c` | Frees a `list_t` list |
 | `100-first.c` | Prints a message before main function is executed |
 | `101-hello_holberton.asm` | Assembly code that prints `Hello, Holberton` only using `printf` function |
+Made with :heartbeat: By Shady Mamdouh.
