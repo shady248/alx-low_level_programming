@@ -1,4 +1,5 @@
-### This is the folder for the **0x13-more_singly_linked_lists** task.
+## This is the folder for the **0x13-more_singly_linked_lists** task.
+
 
 Files Table
 ------------
@@ -16,3 +17,6 @@ Files Table
 | 7-get\_nodeint.c |  returns the nth node of a `listint_t` linked list, if the node does not exist, return `NULL`|
 | 8-sum\_listint.c |  returns the sum of all the data (n) of a `listint_t` linked list |
 | 9-insert\_nodeint.c |  inserts a new node at a given position |
+| 10-delete\_nodeint.c| deletes a node at a given given position|
+
+made with :heartbeat: by Shady Mamdouh.
