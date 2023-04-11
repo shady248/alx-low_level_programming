@@ -16,13 +16,15 @@ unsigned int binary_to_uint(const char *b)
 
 	if (b == NULL)
 		return (0);
+
 	unit = 0;
 
 	for (length = 0; b[length] != '\0'; length++)
 		;
+
 	for (length--, base_2 = 1; length >= 0; length--, base_2 *= 2)
 	{
-		if (b[length] != '0' && b[length} != '1')
+		if (b[length] != '0' && b[length] != '1')
 		{
 			return (0);
 		}
