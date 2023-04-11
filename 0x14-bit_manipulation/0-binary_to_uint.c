@@ -14,7 +14,7 @@ unsigned int binary_to_uint(const char *b)
 	int length;
 	int base_2;
 
-	if (b == NULL)
+	if (!b)
 		return (0);
 
 	unit = 0;
